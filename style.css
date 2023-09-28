@@ -1,0 +1,22 @@
+.videoGames{
+    width: 250px;
+    height: 250px;
+}
+.games{
+    text-align: center;
+}
+
+body{
+    background-color: blue;
+    font-size: 20px;
+    color: white;
+}
+a{
+    color: bisque;
+}
+a:hover{
+    color: whitesmoke;
+}
+a:visited{
+    color:darkseagreen;
+}
